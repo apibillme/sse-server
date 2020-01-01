@@ -1,12 +1,9 @@
 [package]
 name = "sse-server"
-version = "0.0.3"
+version = "0.0.4"
 authors = ["Bevan Hunt <bevan@bevanhunt.com>"]
 edition = "2018"
 license = "MIT"
-keywords = ["sse", "message-broker", "front-end", "api", "real-time"]
-description = "Front-end Real-time Message Broker"
-repository = "https://github.com/apibillme/broker"
 readme = "README.md"
 
 [dependencies]
